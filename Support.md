@@ -22,7 +22,7 @@ If you've encountered a bug or crash, please include the following details in yo
 - OS version (e.g., iOS 26.0, macOS 26.0, visionOS 26.0)
 - A description of what happened and what you were doing at the time
 
-You can also report issues on our [GitHub Issues page]([https://github.com/Meshy-SC/PathVision-Support/issues](https://github.com/Meshy-SC/PathVision/issues).
+You can also report issues on our [GitHub Issues page](https://github.com/Meshy-SC/PathVision/issues).
 
 ---
 
@@ -53,7 +53,7 @@ A: Open **Settings → Restore Purchases**, or the **Restore Purchases** button 
 A: No. **Reset All Progress** clears level completions and scores only. Purchased worlds, solution credits, and previously unlocked solutions are never revoked.
 
 **Q: Is my data shared with third parties?**
-A: No. PathVision does not collect personal information or share any data with third parties. For full details, see our [Privacy Policy]([https://meshy-sc.github.io/PathVision-Support/PrivacyPolicy](https://github.com/Meshy-SC/PathVision/blob/main/PrivacyPolicy.md).
+A: No. PathVision does not collect personal information or share any data with third parties. For full details, see our [Privacy Policy](https://github.com/Meshy-SC/PathVision/blob/main/PrivacyPolicy.md).
 
 **Q: Does PathVision work offline?**
 A: Yes. All 1,000 puzzles are bundled with the app, so you can play with no network connection. An internet connection is only needed to sync progress via iCloud and to make or restore purchases.
